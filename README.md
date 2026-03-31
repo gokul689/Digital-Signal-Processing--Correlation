@@ -69,4 +69,7 @@ title('discrete cross correlated waveform')
 
 
 ## RESULT:
+<img width="1456" height="780" alt="image" src="https://github.com/user-attachments/assets/8f65ff5e-1702-49b0-8832-395e44fabe87" />
+
+
 
